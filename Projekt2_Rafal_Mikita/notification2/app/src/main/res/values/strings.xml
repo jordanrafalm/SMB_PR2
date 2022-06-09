@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">notification2</string>
+    <string name="channelID" />
+    <string name="channel_name" />
+    <string name="channel_description" />
+    <string name="notification_title" />
+    <string name="notification_text" />
+</resources>
